@@ -37,7 +37,6 @@ except Exception as e:
     print(f"⚠️  No se pudo crear el catálogo '{catalogo}': {e}")
     print("   → Usando 'workspace' como catálogo. (Cambia el widget si prefieres otro.)")
     catalogo = "workspace"
-    dbutils.widgets.get("catalogo")
 
 spark.sql(f"CREATE SCHEMA IF NOT EXISTS {catalogo}.{esquema}")
 spark.sql(f"CREATE VOLUME IF NOT EXISTS {catalogo}.{esquema}.{volumen}")
