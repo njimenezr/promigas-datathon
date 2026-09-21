@@ -4,13 +4,14 @@ Reto técnico de datos sobre Databricks, aterrizado al negocio de **transporte y
 
 ## Formato
 
-- **Individual.** Cada participante resuelve su propio reto en su propio workspace de **Databricks Free Edition**.
+- **Individual.** Cada participante resuelve su propio reto en su propio workspace de **[Databricks Free Edition](https://www.databricks.com/learn/free-edition)**.
 - **Dos tracks a elegir** (uno principal; el otro es bonus). Corren **en paralelo e independientes** — catálogos distintos, ninguno bloquea al otro.
 - **4 niveles por track** (🟢 Básico → 🟡 Medio → 🔴 Avanzado → 🟣 Experto), **en cascada** dentro del track.
 - **Evaluación por App de scoring:** pegas el **valor calculado** y el **prompt de IA** que usaste; la App valida el resultado. Leaderboard con desempate **por velocidad**.
 
 ## Empieza aquí
 
+0. **Crea tu cuenta gratuita** en [Databricks Free Edition](https://www.databricks.com/learn/free-edition) (si aún no tienes workspace).
 1. **Clona este repo** como Git folder en tu workspace de Free Edition.
    Docs: [Git folders](https://docs.databricks.com/aws/en/repos/)
 2. Lee la [**Guía del participante**](guia_participante.md) — formato, requisitos, cómo se evalúa.
