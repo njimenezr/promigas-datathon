@@ -1,0 +1,11 @@
+codigo_nodo,nombre_nodo,ciudad,departamento,pais,latitud,longitud
+BALLE,Ballena (Entrada Guajira),Manaure,LAG,Colombia,11.775,-72.443
+JOBO,Jobo (Entrada Córdoba),Sahagún,COR,Colombia,8.947,-75.443
+BAQ,Estación Barranquilla,Barranquilla,ATL,Colombia,10.968,-74.781
+CTG,Estación Cartagena,Cartagena,BOL,Colombia,10.391,-75.479
+STM,Estación Santa Marta,Santa Marta,MAG,Colombia,11.241,-74.199
+SIN,Estación Sincelejo,Sincelejo,SUC,Colombia,9.304,-75.397
+MTR,Estación Montería,Montería,COR,Colombia,8.748,-75.881
+VDP,Estación Valledupar,Valledupar,CES,Colombia,10.463,-73.253
+RIO,Estación Riohacha,Riohacha,LAG,Colombia,11.544,-72.907
+MAM,Industrial Mamonal,Cartagena,BOL,Colombia,10.318,-75.5
